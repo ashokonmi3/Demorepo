@@ -1,1 +1,1 @@
-Test Git quick test demo
+conflict Git quick test demo
