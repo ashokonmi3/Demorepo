@@ -1,2 +1,2 @@
  this is to show case the git commit command
-
+this is to show the diff in branch from main 
