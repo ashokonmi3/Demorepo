@@ -1,3 +1,3 @@
-eree is to show case how a branch is created
+there s a change is to show case how a branch is created
 git branch to show the branches
 git checkout -b <Nameofwork> to create a new branch
