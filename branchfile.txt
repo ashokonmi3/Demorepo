@@ -1,0 +1,3 @@
+this is to show case how a branch is created
+git branch to show the branches
+git checkout -b <branchname> to create a new branch
